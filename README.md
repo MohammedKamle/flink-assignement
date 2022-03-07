@@ -12,7 +12,7 @@ This repository demonstrates the user end-to-end journey on [weathershopper](htt
 ```
 mvn compile
 ```
-### Running the tests
+### Running the tests from terminal/CMD
 1. Go to the folder containing pom.xml.
 2. To run the test on single browser
 ```
